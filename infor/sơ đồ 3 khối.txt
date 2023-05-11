@@ -1,0 +1,74 @@
+Bài 1
+
+Input:
++Nhập số lương 1 ngày
++Nhập số ngày làm
+
+Progress:
++Lương = Lương 1 ngày * số ngày làm 
+
+Output:
++Hiện thị kết quả lương 
+
+
+-------------------------------------
+
+Bài 2
+
+Input:
++Nhập 5 số thực
+
+Progress:
++giá trị trung bình = (1 + 2 + 3 + 4 + 5) / 5 
+
+Output:
++Hiển thị kết quả trung bình của 5 số thức
+
+
+-------------------------------------
+
+
+Bài 3
+
+Input:
++Nhập số tiền quy đổi
+
+Progress:
++Tiền = tiền quy đổi * usd hiện nay
+
+Output:
++Hiển thị kết quả số tiền quy đổi 
+
+
+-------------------------------------
+
+
+Bài 4
+
+Input:
++Nhập chiều dài cảu HCN
++Nhập chiều rộng cảu HCN
+
+Progress:
++Diện tích = chiều dài * chiều rộng
++Chu vi = (chiều dài + chiều rộng) * 2
+
+Output:
++Hiển thị kết quả chu vi của hình chữ nhật
++Hiển thị kết quả diện tích của hình chữ nhật
+
+-------------------------------------
+
+Bài 5
+
+Input:
++Nhập số ký tự
+
+Progress:
++Số hàng đơn vị % 10
++Số hàng chục / 10
+
+Output:
++Hiển thị kết quả tổng 2 kí tự
+
+-------------------------------------
